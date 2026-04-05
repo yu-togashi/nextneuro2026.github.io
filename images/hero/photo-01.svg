@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="Colloquium visual 1">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#11345e"/>
+      <stop offset="100%" stop-color="#1f8fa8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#g1)"/>
+  <circle cx="220" cy="180" r="140" fill="#ffffff22"/>
+  <circle cx="960" cy="620" r="220" fill="#ffffff18"/>
+  <rect x="180" y="260" width="840" height="380" rx="26" fill="#0b0d1770" stroke="#ffffff55" stroke-width="3"/>
+  <text x="600" y="440" text-anchor="middle" fill="#e8f4ff" font-size="58" font-family="Outfit, Arial, sans-serif">Next-Gen Neuro</text>
+  <text x="600" y="510" text-anchor="middle" fill="#b9d9ff" font-size="34" font-family="Noto Sans JP, Arial, sans-serif">Image Placeholder</text>
+</svg>
