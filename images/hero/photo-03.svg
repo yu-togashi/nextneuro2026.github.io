@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="Colloquium visual 3">
+  <defs>
+    <linearGradient id="g3" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1d2b39"/>
+      <stop offset="100%" stop-color="#0083a5"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#g3)"/>
+  <rect x="0" y="640" width="1200" height="260" fill="#ffffff14"/>
+  <circle cx="280" cy="240" r="150" fill="#ffffff19"/>
+  <circle cx="860" cy="300" r="180" fill="#ffffff10"/>
+  <rect x="190" y="250" width="820" height="390" rx="24" fill="#0b0d1772" stroke="#ffffff56" stroke-width="3"/>
+  <text x="600" y="445" text-anchor="middle" fill="#e7fbff" font-size="58" font-family="Outfit, Arial, sans-serif">Neuroscience 2026</text>
+  <text x="600" y="515" text-anchor="middle" fill="#baeaff" font-size="34" font-family="Noto Sans JP, Arial, sans-serif">Image Placeholder</text>
+</svg>

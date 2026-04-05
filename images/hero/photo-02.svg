@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="Colloquium visual 2">
+  <defs>
+    <linearGradient id="g2" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1f3057"/>
+      <stop offset="100%" stop-color="#4a4dd4"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#g2)"/>
+  <path d="M0 680 C240 560 360 770 620 640 C840 530 980 730 1200 610 L1200 900 L0 900 Z" fill="#ffffff22"/>
+  <circle cx="980" cy="170" r="120" fill="#ffffff1f"/>
+  <rect x="160" y="220" width="880" height="460" rx="28" fill="#0b0d1768" stroke="#ffffff4a" stroke-width="3"/>
+  <text x="600" y="445" text-anchor="middle" fill="#f0f3ff" font-size="58" font-family="Outfit, Arial, sans-serif">Discussion Camp</text>
+  <text x="600" y="515" text-anchor="middle" fill="#c9d0ff" font-size="34" font-family="Noto Sans JP, Arial, sans-serif">Image Placeholder</text>
+</svg>
